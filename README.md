@@ -1,4 +1,4 @@
-# ✨ attac-jekyll ✨
+# ✨ attac-saarland ✨
 
 <img src="https://themes.stackbit.com/images/event-demo-1024x768.png" width="600">
 
